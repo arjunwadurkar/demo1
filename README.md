@@ -1,6 +1,6 @@
 # ng-traning-assignment-1
 
-# Step to run this project in tour machine
+# Step to run this project in your machine
 Step 1 : Make sure you hav pre install nodejs if not refer this (https://nodejs.org/en/download/) this link to install nodejs
 
 Step 2 : run this command on you cmd prompt `npm install -g @angular/cli@16`
